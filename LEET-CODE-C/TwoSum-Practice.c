@@ -5,7 +5,6 @@
 // Example 1: Given nums = [2, 7, 11, 15], target = 9, return [0, 1].
 // Example 2: Given nums = [3, 2, 4], target = 6, return [1, 2].
 // CONCEPT: 2-POINTERS
-// Approach: 2-Pointer
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 // The code is written in C language
